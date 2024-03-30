@@ -1,0 +1,51 @@
+button {
+
+    border: none;
+    padding-top: 10px;
+    padding-bottom;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+h1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+
+body {
+    background-image: url("Water.jpg");
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center
+}
+
+
+#increment-btn {
+    font-family: 'Courier New', Courier, monospace;
+    background: rgba(173, 0, 0, 0.959);
+    border-radius: 8px
+    
+}
+
+#save-btn {
+    font-family: 'Courier New', Courier, monospace;
+    background: green
+}
